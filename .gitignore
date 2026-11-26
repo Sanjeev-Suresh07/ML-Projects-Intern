@@ -1,0 +1,13 @@
+# Virtual environment
+.venv/
+
+# Python and Jupyter automatic files
+__pycache__/
+.ipynb_checkpoints/
+
+# Guide material (InternCircle learning content, not our work)
+*.pdf
+
+# Local system files
+.DS_Store
+Thumbs.db
